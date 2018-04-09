@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522786981 source:c:\test\ramap\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
